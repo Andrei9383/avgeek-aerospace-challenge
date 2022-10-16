@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/avgeek-aerospace-challenge/static/css/main.b4f3f038.chunk.css",
+    "main.js": "/avgeek-aerospace-challenge/static/js/main.73132c2d.chunk.js",
+    "main.js.map": "/avgeek-aerospace-challenge/static/js/main.73132c2d.chunk.js.map",
+    "runtime-main.js": "/avgeek-aerospace-challenge/static/js/runtime-main.ad9ec111.js",
+    "runtime-main.js.map": "/avgeek-aerospace-challenge/static/js/runtime-main.ad9ec111.js.map",
+    "static/js/2.6afed61f.chunk.js": "/avgeek-aerospace-challenge/static/js/2.6afed61f.chunk.js",
+    "static/js/2.6afed61f.chunk.js.map": "/avgeek-aerospace-challenge/static/js/2.6afed61f.chunk.js.map",
+    "index.html": "/avgeek-aerospace-challenge/index.html",
+    "static/css/main.b4f3f038.chunk.css.map": "/avgeek-aerospace-challenge/static/css/main.b4f3f038.chunk.css.map",
+    "static/js/2.6afed61f.chunk.js.LICENSE.txt": "/avgeek-aerospace-challenge/static/js/2.6afed61f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad9ec111.js",
+    "static/js/2.6afed61f.chunk.js",
+    "static/css/main.b4f3f038.chunk.css",
+    "static/js/main.73132c2d.chunk.js"
+  ]
+}
